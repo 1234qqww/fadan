@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20faee7a-e973-4ad6-bb5e-90361c92b920" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/admin/orderController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/admin/orderController.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -69,8 +68,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/admin/orderController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="470">
-              <caret line="201" column="14" selection-start-line="201" selection-start-column="14" selection-end-line="201" selection-end-column="14" />
+            <state relative-caret-position="437">
+              <caret line="200" column="22" selection-start-line="200" selection-start-column="22" selection-end-line="200" selection-end-column="22" />
               <folding>
                 <element signature="e#46#66#0#PHP" expanded="true" />
               </folding>
@@ -429,12 +428,12 @@
       <workItem from="1561957874584" duration="1706000" />
       <workItem from="1562115695601" duration="5696000" />
       <workItem from="1562147886278" duration="133000" />
-      <workItem from="1562206731653" duration="9168000" />
+      <workItem from="1562206731653" duration="9470000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="182005000" />
+    <option name="totallyTimeSpent" value="182307000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -447,7 +446,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16950959" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -907,8 +905,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/admin/orderController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="470">
-          <caret line="201" column="14" selection-start-line="201" selection-start-column="14" selection-end-line="201" selection-end-column="14" />
+        <state relative-caret-position="437">
+          <caret line="200" column="22" selection-start-line="200" selection-start-column="22" selection-end-line="200" selection-end-column="22" />
           <folding>
             <element signature="e#46#66#0#PHP" expanded="true" />
           </folding>
