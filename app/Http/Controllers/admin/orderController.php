@@ -218,6 +218,7 @@ class orderController extends Controller
         $notify_url = url('order/notify');//回调地址
         $body= "罚款代缴";
         $attach = json_encode(['ordernumber'=>$param['ordernumber'],'formid'=>$param['formid']]);
+        $amountmoney=0.01;
         $data=initiatingPayment($amountmoney,$ordernumber,$openid,$appid,$mch_id,$mch_secret,$notify_url,$body,$attach);
         $data['ordernumber']=$param['ordernumber'];
         $data['amount']=$param['amount'];
