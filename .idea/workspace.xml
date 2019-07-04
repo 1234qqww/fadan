@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="20faee7a-e973-4ad6-bb5e-90361c92b920" name="Default Changelist" comment="" />
+    <list default="true" id="20faee7a-e973-4ad6-bb5e-90361c92b920" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -361,7 +363,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -426,12 +428,12 @@
       <workItem from="1561957874584" duration="1706000" />
       <workItem from="1562115695601" duration="5696000" />
       <workItem from="1562147886278" duration="133000" />
-      <workItem from="1562206731653" duration="2036000" />
+      <workItem from="1562206731653" duration="3396000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="174873000" />
+    <option name="totallyTimeSpent" value="176233000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
