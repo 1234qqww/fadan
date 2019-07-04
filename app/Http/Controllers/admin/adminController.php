@@ -34,7 +34,6 @@ class adminController extends Controller
     public function lists(Request $request){
         $param=$request->all();
         $data=$this->admin->lists($param);
-        echo 1;
         return $data?state('0','管理员列表',$data['data'],$data['count']):state('0','无数据','');
     }
     /**
