@@ -199,6 +199,7 @@ class orderController extends Controller
         $mch_secret = $config->msecret;
         $notify_url = url('order/notify');//回调地址
         $body= "罚款代缴";
+        echo 1;
         $attach = json_encode(['ordernumber'=>$param['ordernumber'],'formid'=>$param['formid']]);
         return initiatingPayment($amountmoney,$ordernumber,$openid,$appid,$mch_id,$mch_secret,$notify_url,$body,$attach);
     }
